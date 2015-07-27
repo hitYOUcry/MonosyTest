@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- GridGraph Start -->
+    <declare-styleable name="gridgraph">
+        <attr name="axis_textsize" format="dimension"></attr>
+        <attr name="axis_textcolor" format="color"></attr>
+        <attr name="grid_color" format="color"></attr>
+        <attr name="targetline_color" format="color"></attr>
+    </declare-styleable>
+    <!-- GridGraph End -->
+
+
+    <!-- Slider Start -->
+    <declare-styleable name="slider">
+        <attr name="showNumberIndicator" format="boolean"></attr>
+        <attr name="max" format="integer"></attr>
+        <attr name="min" format="integer"></attr>
+        <attr name="value" format="integer"></attr>
+    </declare-styleable>
+    <!-- Slider End -->
+
+</resources>

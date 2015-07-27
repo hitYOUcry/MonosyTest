@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="gridgraph_gridcolor">#5656ff</color>
+    <color name="gridgraph_textcolor">#555555</color>
+    <color name="gridgraph_linecolor">#ff5655</color>
+    <dimen name="gridgraph_textsize">13sp</dimen>
+
+</resources>

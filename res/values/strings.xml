@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">MonosyllabicDetect</string>
+
+    <!-- Main Activty Start -->
+    <string name="app_title">纯音听力测试</string>
+    <!-- Main Activty End -->
+
+</resources>
